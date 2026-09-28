@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/governance-proposal-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/governance-proposal-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/governance-proposal-validation",
+    "origin"
+  ]
+}
